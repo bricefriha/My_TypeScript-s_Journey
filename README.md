@@ -15,3 +15,8 @@ My development tools:
 Sources:
 * https://code.visualstudio.com/docs/typescript/typescript-tutorial#_change-the-build-output
 
+---
+
+## Table of contents
+
+ * **Chapter 1:** Getting started
