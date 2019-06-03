@@ -1,8 +1,13 @@
+import * as Objects from './Objects/message';
 // Define message
-let message : string = "Hello World";
+let msg = new Objects.Message("Hello","World");
 
 // Instanciate message object
 
 //
 // Show Message
-console.log(message);
+console.log(
+            "first part: " + msg.getFirstPart()+" ¦ "+
+            "second part: " + msg.getSecondPart()+" ¦ "+
+            msg.getFullMessage()
+            );

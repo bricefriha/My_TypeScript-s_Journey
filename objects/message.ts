@@ -1,3 +1,4 @@
+
 class Message 
 {
     private firstPart: string;
@@ -13,17 +14,17 @@ class Message
     //Encapse
     //
     // Getters
-    getFirstPart()
+    getFirstPart() : string
     {
         return this.firstPart;
     }
-    getSecondPart()
+    getSecondPart() : string
     {
         return this.secondPart;
     }
-    getFullMessage()
+    getFullMessage() : string
     {
-        return this.firstPart + this.secondPart;
+        return this.firstPart +" "+ this.secondPart+" !!!";
     }
     //
     // Setters
@@ -37,3 +38,4 @@ class Message
     }
 
 }
+export{Message};
