@@ -20,3 +20,4 @@ Sources:
 ## Table of contents
 
  * **Chapter 1:** Getting started
+ * **Chapter 2:** Lets try with objects
