@@ -1,23 +1,10 @@
-# My TypeScript's Journey
+# Chapter 2 : Lets try with objects
 
-Type Script has gotten stirred up my curiosity since this last months. 
-Then I decided to learn this wonderful and unknown language, making this learning as a brand new journey.
+In this chapter, I was looking use objects into my program.ts. Instead of hardly shown "Hello world" in the output console, like I have done in the first Chapter, now I decided to create an object class named "Message" which got two attributes: firstpart and secondepart.
+the first part of our message will be "Hello" and the second one will be "world". This class will also have five methods:
+two, to set the different parts, two others to get this to parts and the last one to get the entire message.
 
-This repository will be my journey's logbook which each branch his considered as a chapter.
-In this way, you can participate in this journey, making some pull request to help me being better or just use my code to help you to learn.
-;)
+This chapter allowed me to handle those notions:
 
-My development tools:
-* Visual Studio Code
-* Node.js v12.3.1
-* TypeScript 3.5.1
-
-Sources:
-* https://code.visualstudio.com/docs/typescript/typescript-tutorial#_change-the-build-output
-
----
-
-## Table of contents
-
- * **Chapter 1:** Getting started
- * **Chapter 2:** Lets try with objects
+* Import and export modules
+* Objects classes creation
